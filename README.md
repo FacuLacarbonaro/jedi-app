@@ -20,4 +20,4 @@ Create a STAR WARS page using:
 
 ## Images
 
-![Image text]()
+![Image text](https://github.com/FacuLacarbonaro/jedi-app/blob/master/src/assets/images/star-wars-1.jpg)
